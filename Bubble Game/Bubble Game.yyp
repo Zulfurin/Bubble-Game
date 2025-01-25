@@ -35,6 +35,7 @@
   "name":"Bubble Game",
   "resources":[
     {"id":{"name":"fnt_Bubble","path":"fonts/fnt_Bubble/fnt_Bubble.yy",},},
+    {"id":{"name":"obj_Bubble","path":"objects/obj_Bubble/obj_Bubble.yy",},},
     {"id":{"name":"obj_BubbleButtonHowToPlay","path":"objects/obj_BubbleButtonHowToPlay/obj_BubbleButtonHowToPlay.yy",},},
     {"id":{"name":"obj_BubbleButtonParent","path":"objects/obj_BubbleButtonParent/obj_BubbleButtonParent.yy",},},
     {"id":{"name":"obj_BubbleButtonPlay","path":"objects/obj_BubbleButtonPlay/obj_BubbleButtonPlay.yy",},},
