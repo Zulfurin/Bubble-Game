@@ -13,9 +13,9 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_43FED9A8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_43FED9A8","objectId":{"name":"obj_BubbleButtonPlay","path":"objects/obj_BubbleButtonPlay/obj_BubbleButtonPlay.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.857143,"scaleY":3.6666667,"x":160.0,"y":96.0,},
-        {"$GMRInstance":"v1","%Name":"inst_3069B0EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3069B0EF","objectId":{"name":"obj_BubbleButtonHowToPlay","path":"objects/obj_BubbleButtonHowToPlay/obj_BubbleButtonHowToPlay.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.8571424,"scaleY":3.6666665,"x":160.0,"y":224.0,},
-        {"$GMRInstance":"v1","%Name":"inst_5FDFDB4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FDFDB4D","objectId":{"name":"obj_BubbleButtonQuit","path":"objects/obj_BubbleButtonQuit/obj_BubbleButtonQuit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.857143,"scaleY":3.6666667,"x":160.0,"y":352.0,},
+        {"$GMRInstance":"v1","%Name":"inst_43FED9A8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_43FED9A8","objectId":{"name":"obj_BubbleButtonPlay","path":"objects/obj_BubbleButtonPlay/obj_BubbleButtonPlay.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.4285717,"scaleY":3.6666667,"x":192.0,"y":96.0,},
+        {"$GMRInstance":"v1","%Name":"inst_3069B0EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3069B0EF","objectId":{"name":"obj_BubbleButtonHowToPlay","path":"objects/obj_BubbleButtonHowToPlay/obj_BubbleButtonHowToPlay.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.428571,"scaleY":3.6666665,"x":192.0,"y":224.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5FDFDB4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5FDFDB4D","objectId":{"name":"obj_BubbleButtonQuit","path":"objects/obj_BubbleButtonQuit/obj_BubbleButtonQuit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.4285717,"scaleY":3.6666667,"x":192.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4285549568,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -38,7 +38,7 @@
     "Height":448,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":321,
+    "Width":384,
   },
   "sequenceId":null,
   "views":[
