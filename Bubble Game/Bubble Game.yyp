@@ -3,6 +3,8 @@
   "%Name":"Bubble Game",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"","%Name":"ag_Music","name":"ag_Music","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"","%Name":"ag_SFX","name":"ag_SFX","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -45,9 +47,12 @@
     {"id":{"name":"obj_BubbleSlot3","path":"objects/obj_BubbleSlot3/obj_BubbleSlot3.yy",},},
     {"id":{"name":"obj_BubbleSlot4","path":"objects/obj_BubbleSlot4/obj_BubbleSlot4.yy",},},
     {"id":{"name":"obj_Game","path":"objects/obj_Game/obj_Game.yy",},},
+    {"id":{"name":"obj_Music","path":"objects/obj_Music/obj_Music.yy",},},
     {"id":{"name":"obj_Temp","path":"objects/obj_Temp/obj_Temp.yy",},},
+    {"id":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
     {"id":{"name":"rm_Main","path":"rooms/rm_Main/rm_Main.yy",},},
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
+    {"id":{"name":"snd_BubblePop","path":"sounds/snd_BubblePop/snd_BubblePop.yy",},},
     {"id":{"name":"spr_Bubble","path":"sprites/spr_Bubble/spr_Bubble.yy",},},
     {"id":{"name":"spr_BubbleButton","path":"sprites/spr_BubbleButton/spr_BubbleButton.yy",},},
     {"id":{"name":"spr_BubbleSlot","path":"sprites/spr_BubbleSlot/spr_BubbleSlot.yy",},},
@@ -56,12 +61,16 @@
     {"id":{"name":"spr_BubbleWandGreen","path":"sprites/spr_BubbleWandGreen/spr_BubbleWandGreen.yy",},},
     {"id":{"name":"spr_BubbleWandRed","path":"sprites/spr_BubbleWandRed/spr_BubbleWandRed.yy",},},
     {"id":{"name":"spr_BubbleWandYellow","path":"sprites/spr_BubbleWandYellow/spr_BubbleWandYellow.yy",},},
+    {"id":{"name":"spr_Cloud","path":"sprites/spr_Cloud/spr_Cloud.yy",},},
+    {"id":{"name":"spr_Score","path":"sprites/spr_Score/spr_Score.yy",},},
+    {"id":{"name":"spr_ThanksForPlaying","path":"sprites/spr_ThanksForPlaying/spr_ThanksForPlaying.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
     {"roomId":{"name":"rm_Main","path":"rooms/rm_Main/rm_Main.yy",},},
+    {"roomId":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

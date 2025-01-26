@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_BubbleWandRed",
   "bboxMode":0,
-  "bbox_bottom":63,
+  "bbox_bottom":80,
   "bbox_left":6,
   "bbox_right":56,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":81,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"c078d445-e881-47d5-adbc-a168e52d2f9a","blendMode":0,"displayName":"default","isLocked":false,"name":"c078d445-e881-47d5-adbc-a168e52d2f9a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
